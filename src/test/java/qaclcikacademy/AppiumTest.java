@@ -15,6 +15,7 @@ public void postelement()
 {
 	 System.out.println("inside appium elemnt");
 	 System.out.println("inside appium elemntnew");
+	 System.out.println("latest changes");
 }
  
 
