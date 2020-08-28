@@ -12,5 +12,6 @@ public class SeleniumTest {
 public void element()
 {
 	 System.out.println("inside selenium elemnt");
+	 System.out.println("inside selenium elemnt");
 }
 }

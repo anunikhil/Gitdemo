@@ -14,6 +14,7 @@ public class AppiumTest {
 public void postelement()
 {
 	 System.out.println("inside appium elemnt");
+	 System.out.println("inside appium elemntnew");
 }
  
 
