@@ -7,6 +7,8 @@ public class AppiumTest {
 	public void Browesr()
 	{
 		System.out.println("inside appium browser");
+		System.out.println("inside appium browser2");
+		System.out.println("inside appium browser3");
 	}
  @Test
 public void postelement()
